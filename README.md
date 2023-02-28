@@ -1,2 +1,2 @@
 # domino
-website about restaurand Domino
+website about restaurant Domino
